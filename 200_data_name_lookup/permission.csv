@@ -1,7 +1,6 @@
-,
-hh,hh
-hp,hp
-mh,mh
-mm,mm
-mp,mp
-pp,pp
+hh,Data humanitarian only - Products humanitarian only
+hp,Data humanitarian only - Products public
+mh,Data MapAction only - Products humanitarian only
+mm,Data MapAction only - Products MapAction only
+mp,Data MapAction only - Products public
+pp,Data public - Products public
