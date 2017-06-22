@@ -1,10 +1,11 @@
 Value,Description,Geography
 afr,Africa,Continent
-ama,Americas,Continent
+ant,Antarctica,Continent
 asi,Asia,Continent
 eur,Europe,Continent
+nama,North America,Continent
 ocn,Oceania,Continent
-wafr,West Africa,Continent
+sama,South America,Continent
 abw,Aruba,Country
 afg,Afghanistan,Country
 ago,Angola,Country
@@ -256,34 +257,56 @@ zmb,Zambia,Country
 zwe,Zimbabwe,Country
 gaz,Gaza Strip,Disputed
 wbk,West Bank,Disputed
-sot,Southlands,Exercise Feature
 wrl,World,Global
+bdl,Bird Island,Island
 bri,Baker Island,Island
 bsi,Bassas da India,Island
-bdl,Bird Island,Island
 epi,Europa Island,Island
 gsi,Glorioso Island,Island
 hit,Hala'ib Triangle,Island
 hwi,Howland Island,Island
 imt,Ilemi Triangle,Island
-jvi,Jarvis Island,Island
 jni,Juan de Nova Island,Island
+jvi,Jarvis Island,Island
+kli,Kuril Islands,Island
 mts,Ma'tan al-sarra,Island
 tmi,Tromelin Island,Island
-kli,Kuril Islands,Island
+afri,Northern Africa,Region
+anz,Australia and New Zealand,Region
+cama,Central America,Region
+casi,Central Asia,Region
 cbn,Caribbean,Region
-eaf,East Africa,Region
+eafr,Eastern Africa,Region
+easi,Eastern Asia,Region
+eeur,Eastern Europe,Region
+mafr,Middle Africa,Region
+mel,Melanesia,Region
+mic,Micronesia,Region
+neur,Northern Europe,Region
+poln,Polynesia,Region
+safr,Southern Africa,Region
+sasi,Southern Asia,Region
+seasi,South-Eastern Asia,Region
+seur,Southern Europe,Region
+wafr,Western Africa,Region
+wasi,Western Asia,Region
+weur,Western Europe,Region
 cas,Caspian Sea,Sea
-asc,Aksai Chin,Unknown
 ahp,Arunachal Pradesh,Unknown
+asc,Aksai Chin,Unknown
 azi,Azores Islands,Unknown
 daa,Dhekelia and Akrotiri,Unknown
+itr,Liancourt rock,Unknown
 jkm,Jammu Kashmir,Unknown
 kgr,Kingman Reef,Unknown
-itr,Liancourt rock,Unknown
 mdi,Madeira Islands,Unknown
 nsi,Navassa Island,Unknown
-pma,Palmyra Atoll,Unknown
 pli,Paracel Islands,Unknown
+pma,Palmyra Atoll,Unknown
 scr,Scarborough Reef,Unknown
 ski,Senkaku Islands,Unknown
+,,
+,,
+,,
+,,
+,,
