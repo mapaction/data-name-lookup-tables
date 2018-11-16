@@ -161,10 +161,10 @@ rds,Road,tran
 rrd,Railway / railroad,tran
 rst,Railway station,tran
 tun,Tunnel,tran
-chn,Channels,trans
-frd,Fords / crossings,trans
-gat,Gates / barriers,trans
-trx,Tracks,trans
+chn,Channels,tran
+frd,Fords / crossings,tran
+gat,Gates / barriers,tran
+trx,Tracks,tran
 com,Communication structure / radio / TV mast,util
 fue,Fuel depot,util
 fst,Fuel station,util
