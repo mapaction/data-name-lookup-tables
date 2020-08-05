@@ -137,7 +137,7 @@ lie,Liechtenstein,Country
 ltu,Lithuania,Country
 lux,Luxembourg,Country
 mac,Macao,Country
-mkd,"Macedonia, the former Yugoslav Republic of",Country
+mkd,North Macedonia,Country
 mdg,Madagascar,Country
 mwi,Malawi,Country
 mys,Malaysia,Country
@@ -219,7 +219,7 @@ lka,Sri Lanka,Country
 sdn,Sudan,Country
 sur,Suriname,Country
 sjm,Svalbard and Jan Mayen,Country
-swz,Swaziland,Country
+swz,eSwantini,Country
 swe,Sweden,Country
 che,Switzerland,Country
 syr,Syrian Arab Republic,Country
@@ -305,3 +305,4 @@ pma,Palmyra Atoll,Unknown
 pli,Paracel Islands,Unknown
 scr,Scarborough Reef,Unknown
 ski,Senkaku Islands,Unknown
+aoi,Area of Interest,Area

@@ -23,7 +23,7 @@ gps,GPS survey,assm
 pho,Photo location,assm
 pnt,Point visited,assm
 trk,Track / route (planned or taken),assm
-bdg,Building,bldg
+bld,Building,bldg
 dmg,Damaged building,bldg
 dst,Destroyed building,bldg
 res,Residential building,bldg
@@ -99,7 +99,7 @@ mar,Marsh / swamp,phys
 nat,Natural,phys
 nun,Nunatak,phys
 oas,Oasis,phys
-ocn,Ocean,phys
+ocn,Ocean or Sea,phys
 pla,Plains / open expanses,phys
 ree,Reef,phys
 rid,Ridge,phys
@@ -178,3 +178,6 @@ rsq,Rescue services / coast guards,util
 san,Sanitation / waste facilities / landfill,util
 was,Water and sanitation,wash
 vul,Vulnerable group,popu
+trn,Transport,tran
+trf,Taffic,tran
+pow,Place of Worship,pois
