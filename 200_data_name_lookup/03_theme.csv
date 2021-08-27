@@ -26,14 +26,15 @@ trk,Track / route (planned or taken),assm
 bld,Building,bldg
 dmg,Damaged building,bldg
 dst,Destroyed building,bldg
-res,Residential building,bldg
 nrs,Non-residential building,bldg
+res,Residential building,bldg
 aoi,Area of interest,carto
 cli,Clipping polygon,carto
 ddp,Data driven pages index grid,carto
 fea,Feather / vignette for shoreline,carto
 grd,Grid,carto
 lat,Lat/Long Grid,carto
+msk,Mask,carto
 tim,Time Zone,carto
 utm,UTM,carto
 atm,Automated teller machine,cash
@@ -50,13 +51,13 @@ unc,Undersea features,elev
 env,Environmental,envi
 ebu,Earthquake buffer,evnt
 epi,Earthquake epicentre,evnt
-shk,Earthquake shake intensity,evnt
 fir,Fire location,evnt
 flo,Flood extent,evnt
+shk,Earthquake shake intensity,evnt
 str,Storm track,evnt
-hea,Health facility (generic),heal
 ecl,Emergency clinic,heal
 epd,Epidemic,heal
+hea,Health facility (generic),heal
 hos,Hospital,heal
 med,Medical facility,heal
 pha,Pharmacy / Chemist,heal
@@ -70,6 +71,7 @@ ind,Industrial,land
 lea,Lease,land
 lnd,Landcover,land
 npk,National Park / Protected Area,land
+soi,Soils,land
 urb,Urban,land
 veg,Vegetation,land
 wal,Wall,land
@@ -120,7 +122,9 @@ lod,Lodgings / hotels / guest houses,pois
 mon,Monument,pois
 nav,Navigational markers,pois
 off,Offices,pois
-rel,Religeous buildings,pois
+poi,General points of interest,pois
+pow,Place of Worship,pois
+rel,Religious buildings,pois
 ser,Services / post offices,pois
 sit,Sites of interest,pois
 spt,Sport facilities,pois
@@ -133,6 +137,7 @@ cul,Cultural region,popu
 eth,Ethnic group,popu
 lan,Language distribution,popu
 pop,Population distribution,popu
+vul,Vulnerable group,popu
 cem,Cemetery,rcvy
 sca,Map scan,scan
 erw,Explosive Remnants of War,scty
@@ -142,8 +147,8 @@ mts,Mine threat status (roads),scty
 sbu,Security buffer,scty
 sec,Security status,scty
 uxo,Unexploded Ordnance,scty
-shl,Shelter,shel
 evc,Evacuation shelter,shel
+shl,Shelter,shel
 cmp,Camp,stle
 stl,Settlement (city / town / populated place),stle
 tel,Mobile Telephone Coverage,telc
@@ -152,7 +157,10 @@ air,Airport / Airstrip,tran
 brg,Bridge,tran
 bst,Bus station,tran
 can,Canal,tran
+chn,Channels,tran
 fer,Ferry,tran
+frd,Fords / crossings,tran
+gat,Gates / barriers,tran
 hlz,Heliport,tran
 hwy,Highway,tran
 por,Seaport,tran
@@ -160,11 +168,10 @@ rdi,Road distances,tran
 rds,Road,tran
 rrd,Railway / railroad,tran
 rst,Railway station,tran
-tun,Tunnel,tran
-chn,Channels,tran
-frd,Fords / crossings,tran
-gat,Gates / barriers,tran
+trf,Traffic features,tran
+trn,Transport features,tran
 trx,Tracks,tran
+tun,Tunnel,tran
 com,Communication structure / radio / TV mast,util
 fue,Fuel depot,util
 fst,Fuel station,util
@@ -177,7 +184,3 @@ pwl,Power Line,util
 rsq,Rescue services / coast guards,util
 san,Sanitation / waste facilities / landfill,util
 was,Water and sanitation,wash
-vul,Vulnerable group,popu
-trn,Transport,tran
-trf,Taffic,tran
-pow,Place of Worship,pois
