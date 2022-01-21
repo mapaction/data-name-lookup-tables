@@ -20,7 +20,7 @@ gadm,GADM Global Administrative Areas
 geoeye,GeoEye
 gist,Geographic Information Support Team
 gaul,Global Administrative Unit Layers
-grump,Global Rural-Urban Mapping Project
+grump,Global�Rural-Urban Mapping Project
 ge,Google Earth
 govl,Government - local
 govn,Government - national
@@ -37,7 +37,7 @@ jdf,J. de Ferranti DEMs (north of SRTM)
 landsat,Landsat Geocover
 landscan,LandScan
 logs,Logs Cluster
-mapaction,MapAction
+ma,MapAction
 msf,Medicins Sans Frontieres
 merlin,Merlin
 mag,Mines Advisory Group
@@ -54,12 +54,16 @@ ngashore,NGA shorelines
 npa,Norwegion Peoples Aid
 nutcltr,Nutrition Cluster
 osm,OpenStreetMap
+ourairports,Our Airports
 oxfam,Oxfam
 police,Police Service
 protcltr,Protection Cluster
 salb,Second Administrative Level Boundaries
+spcsdd,"Secretariat of the Pacific Community, Statistics for Development Division"
+smith,Smithsonian Institution - Global Volcanism Program
 srtm,Shuttle Radar Topography Mission
 statoid,Statoid: data on admin units
+tsd,Tonga Statistics Department
 tsf,Telecom Sans Frontier
 mapstor,Topo scans: Russian (MapStor)
 trmm,Tropical Rainfall Measuring Mission
@@ -90,10 +94,4 @@ washcltr,WASH Cluster
 wiki,Wikipedia
 wdpa,Word Database of Protected Areas
 wfp,World Food Program
-cnigs,Centre National de l'Information Géo-Spatiale
-unhcr, United Nations High Commissioner for Refugees
-unrwa, United Nations Relief and Works Agency for Palestine Refugees
-mapaction, MapAction
-worldportindex,World Ports Index
-ourairports,Our Airports
-openstreetmap,OpenStreetMap
+worldports,World Port Index
