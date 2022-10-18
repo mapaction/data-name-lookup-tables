@@ -1,262 +1,264 @@
 Value,Description,Geography
+aoi,Area of Interest,Area of Interest
+reg,Regional,Covers the affected country and the surrounding area.
 afr,Africa,Continent
-ant,Antarctica,Continent
+ama,Americas,Continent
 asi,Asia,Continent
 eur,Europe,Continent
-nama,North America,Continent
 ocn,Oceania,Continent
-sama,South America,Continent
+wafr,West Africa,Continent
+abw,Aruba,Country
 afg,Afghanistan,Country
-ala,Aland Islands,Country
-alb,Albania,Country
-dza,Algeria,Country
-asm,American Samoa,Country
-and,Andorra,Country
 ago,Angola,Country
 aia,Anguilla,Country
-ata,Antarctica,Country
-atg,Antigua and Barbuda,Country
+ala,Aland Islands,Country
+alb,Albania,Country
+and,Andorra,Country
+are,United Arab Emirates,Country
 arg,Argentina,Country
 arm,Armenia,Country
-abw,Aruba,Country
+asm,American Samoa,Country
+ata,Antarctica,Country
+atf,French Southern Territories,Country
+atg,Antigua and Barbuda,Country
 aus,Australia,Country
 aut,Austria,Country
 aze,Azerbaijan,Country
-bhs,Bahamas,Country
-bhr,Bahrain,Country
-bgd,Bangladesh,Country
-brb,Barbados,Country
-blr,Belarus,Country
-bel,Belgium,Country
-blz,Belize,Country
-ben,Benin,Country
-bmu,Bermuda,Country
-btn,Bhutan,Country
-bol,"Bolivia, Plurinational State of",Country
-bes,"Bonaire, Sint Eustatius and Saba",Country
-bih,Bosnia and Herzegovina,Country
-bwa,Botswana,Country
-bvt,Bouvet Island,Country
-bra,Brazil,Country
-iot,British Indian Ocean Territory,Country
-brn,Brunei Darussalam,Country
-bgr,Bulgaria,Country
-bfa,Burkina Faso,Country
 bdi,Burundi,Country
-cpv,Cabo Verde,Country
-khm,Cambodia,Country
-cmr,Cameroon,Country
-can,Canada,Country
-cym,Cayman Islands,Country
+bel,Belgium,Country
+ben,Benin,Country
+bes,"Bonaire, Sint Eustatius and Saba",Country
+bfa,Burkina Faso,Country
+bgd,Bangladesh,Country
+bgr,Bulgaria,Country
+bhr,Bahrain,Country
+bhs,Bahamas,Country
+bih,Bosnia and Herzegovina,Country
+blm,Saint Barthélemy,Country
+blr,Belarus,Country
+blz,Belize,Country
+bmu,Bermuda,Country
+bol,"Bolivia, Plurinational State of",Country
+bra,Brazil,Country
+brb,Barbados,Country
+brn,Brunei Darussalam,Country
+btn,Bhutan,Country
+bvt,Bouvet Island,Country
+bwa,Botswana,Country
 caf,Central African Republic,Country
-tcd,Chad,Country
+can,Canada,Country
+cck,Cocos (Keeling) Islands,Country
+che,Switzerland,Country
 chl,Chile,Country
 chn,China,Country
-cxr,Christmas Island,Country
-cck,Cocos (Keeling) Islands,Country
+civ,Côte d'Ivoire,Country
+cmr,Cameroon,Country
+cod,"Congo, the Democratic Republic of the",Country
+cog,Congo,Country
+cok,Cook Islands,Country
 col,Colombia,Country
 com,Comoros,Country
-cog,Congo,Country
-cod,"Congo, the Democratic Republic of the",Country
-cok,Cook Islands,Country
+cpv,Cabo Verde,Country
 cri,Costa Rica,Country
-civ,Côte d'Ivoire,Country
-hrv,Croatia,Country
 cub,Cuba,Country
 cuw,Curaçao,Country
+cxr,Christmas Island,Country
+cym,Cayman Islands,Country
 cyp,Cyprus,Country
 cze,Czechia,Country
-dnk,Denmark,Country
+deu,Germany,Country
 dji,Djibouti,Country
 dma,Dominica,Country
+dnk,Denmark,Country
 dom,Dominican Republic,Country
+dza,Algeria,Country
 ecu,Ecuador,Country
 egy,Egypt,Country
-slv,El Salvador,Country
-gnq,Equatorial Guinea,Country
 eri,Eritrea,Country
+esh,Western Sahara,Country
+esp,Spain,Country
 est,Estonia,Country
 eth,Ethiopia,Country
-flk,Falkland Islands (Malvinas),Country
-fro,Faroe Islands,Country
-fji,Fiji,Country
 fin,Finland,Country
+fji,Fiji,Country
+flk,Falkland Islands (Malvinas),Country
 fra,France,Country
-guf,French Guiana,Country
-pyf,French Polynesia,Country
-atf,French Southern Territories,Country
+fro,Faroe Islands,Country
+fsm,"Micronesia, Federated States of",Country
 gab,Gabon,Country
-gmb,Gambia,Country
+gbr,United Kingdom,Country
 geo,Georgia,Country
-deu,Germany,Country
+ggy,Guernsey,Country
 gha,Ghana,Country
 gib,Gibraltar,Country
-grc,Greece,Country
-grl,Greenland,Country
-grd,Grenada,Country
-glp,Guadeloupe,Country
-gum,Guam,Country
-gtm,Guatemala,Country
-ggy,Guernsey,Country
 gin,Guinea,Country
+glp,Guadeloupe,Country
+gmb,Gambia,Country
 gnb,Guinea-Bissau,Country
+gnq,Equatorial Guinea,Country
+grc,Greece,Country
+grd,Grenada,Country
+grl,Greenland,Country
+gtm,Guatemala,Country
+guf,French Guiana,Country
+gum,Guam,Country
 guy,Guyana,Country
-hti,Haiti,Country
-hmd,Heard Island and McDonald Islands,Country
-vat,Holy See (Vatican City State),Country
-hnd,Honduras,Country
 hkg,Hong Kong,Country
+hmd,Heard Island and McDonald Islands,Country
+hnd,Honduras,Country
+hrv,Croatia,Country
+hti,Haiti,Country
 hun,Hungary,Country
-isl,Iceland,Country
-ind,India,Country
 idn,Indonesia,Country
+imn,Isle of Man,Country
+ind,India,Country
+iot,British Indian Ocean Territory,Country
+irl,Ireland,Country
 irn,"Iran, Islamic Republic of",Country
 irq,Iraq,Country
-irl,Ireland,Country
-imn,Isle of Man,Country
+isl,Iceland,Country
 isr,Israel,Country
 ita,Italy,Country
 jam,Jamaica,Country
-jpn,Japan,Country
 jey,Jersey,Country
 jor,Jordan,Country
+jpn,Japan,Country
 kaz,Kazakhstan,Country
 ken,Kenya,Country
+kgz,Kyrgyzstan,Country
+khm,Cambodia,Country
 kir,Kiribati,Country
-prk,"Korea, Democratic People's Republic of",Country
+kna,Saint Kitts and Nevis,Country
 kor,"Korea, Republic of",Country
 kwt,Kuwait,Country
-kgz,Kyrgyzstan,Country
 lao,Lao People's Democratic Republic,Country
-lva,Latvia,Country
 lbn,Lebanon,Country
-lso,Lesotho,Country
 lbr,Liberia,Country
 lby,Libya,Country
+lca,Saint Lucia,Country
 lie,Liechtenstein,Country
+lka,Sri Lanka,Country
+lso,Lesotho,Country
 ltu,Lithuania,Country
 lux,Luxembourg,Country
+lva,Latvia,Country
 mac,Macao,Country
-mkd,North Macedonia,Country
+maf,Saint Martin (French part),Country
+mar,Morocco,Country
+mco,Monaco,Country
+mda,"Moldova, Republic of",Country
 mdg,Madagascar,Country
-mwi,Malawi,Country
-mys,Malaysia,Country
 mdv,Maldives,Country
+mex,Mexico,Country
+mhl,Marshall Islands,Country
+mkd,"Macedonia, the former Yugoslav Republic of",Country
 mli,Mali,Country
 mlt,Malta,Country
-mhl,Marshall Islands,Country
-mtq,Martinique,Country
-mrt,Mauritania,Country
-mus,Mauritius,Country
-myt,Mayotte,Country
-mex,Mexico,Country
-fsm,"Micronesia, Federated States of",Country
-mda,"Moldova, Republic of",Country
-mco,Monaco,Country
-mng,Mongolia,Country
-mne,Montenegro,Country
-msr,Montserrat,Country
-mar,Morocco,Country
-moz,Mozambique,Country
 mmr,Myanmar,Country
-nam,Namibia,Country
-nru,Nauru,Country
-npl,Nepal,Country
-nld,Netherlands,Country
-ncl,New Caledonia,Country
-nzl,New Zealand,Country
-nic,Nicaragua,Country
-ner,Niger,Country
-nga,Nigeria,Country
-niu,Niue,Country
-nfk,Norfolk Island,Country
+mne,Montenegro,Country
+mng,Mongolia,Country
 mnp,Northern Mariana Islands,Country
+moz,Mozambique,Country
+mrt,Mauritania,Country
+msr,Montserrat,Country
+mtq,Martinique,Country
+mus,Mauritius,Country
+mwi,Malawi,Country
+mys,Malaysia,Country
+myt,Mayotte,Country
+nam,Namibia,Country
+ncl,New Caledonia,Country
+ner,Niger,Country
+nfk,Norfolk Island,Country
+nga,Nigeria,Country
+nic,Nicaragua,Country
+niu,Niue,Country
+nld,Netherlands,Country
 nor,Norway,Country
+npl,Nepal,Country
+nru,Nauru,Country
+nzl,New Zealand,Country
 omn,Oman,Country
 pak,Pakistan,Country
-plw,Palau,Country
-pse,"Palestine, State of",Country
 pan,Panama,Country
-png,Papua New Guinea,Country
-pry,Paraguay,Country
+pcn,Pitcairn,Country
 per,Peru,Country
 phl,Philippines,Country
-pcn,Pitcairn,Country
+plw,Palau,Country
+png,Papua New Guinea,Country
 pol,Poland,Country
-prt,Portugal,Country
 pri,Puerto Rico,Country
+prk,"Korea, Democratic People's Republic of",Country
+prt,Portugal,Country
+pry,Paraguay,Country
+pse,"Palestine, State of",Country
+pyf,French Polynesia,Country
 qat,Qatar,Country
 reu,Réunion,Country
 rou,Romania,Country
 rus,Russian Federation,Country
 rwa,Rwanda,Country
-blm,Saint Barthélemy,Country
-shn,"Saint Helena, Ascension and Tristan da Cunha",Country
-kna,Saint Kitts and Nevis,Country
-lca,Saint Lucia,Country
-maf,Saint Martin (French part),Country
-spm,Saint Pierre and Miquelon,Country
-vct,Saint Vincent and the Grenadines,Country
-wsm,Samoa,Country
-smr,San Marino,Country
-stp,Sao Tome and Principe,Country
 sau,Saudi Arabia,Country
+sdn,Sudan,Country
 sen,Senegal,Country
-srb,Serbia,Country
-syc,Seychelles,Country
-sle,Sierra Leone,Country
 sgp,Singapore,Country
-sxm,Sint Maarten (Dutch part),Country
+sgs,South Georgia and the South Sandwich Islands,Country
+shn,"Saint Helena, Ascension and Tristan da Cunha",Country
+sjm,Svalbard and Jan Mayen,Country
+slb,Solomon Islands,Country
+sle,Sierra Leone,Country
+slv,El Salvador,Country
+smr,San Marino,Country
+som,Somalia,Country
+spm,Saint Pierre and Miquelon,Country
+srb,Serbia,Country
+ssd,South Sudan,Country
+stp,Sao Tome and Principe,Country
+sur,Suriname,Country
 svk,Slovakia,Country
 svn,Slovenia,Country
-slb,Solomon Islands,Country
-som,Somalia,Country
-zaf,South Africa,Country
-sgs,South Georgia and the South Sandwich Islands,Country
-ssd,South Sudan,Country
-esp,Spain,Country
-lka,Sri Lanka,Country
-sdn,Sudan,Country
-sur,Suriname,Country
-sjm,Svalbard and Jan Mayen,Country
-swz,eSwantini,Country
 swe,Sweden,Country
-che,Switzerland,Country
+swz,Swaziland,Country
+sxm,Sint Maarten (Dutch part),Country
+syc,Seychelles,Country
 syr,Syrian Arab Republic,Country
-twn,"Taiwan, Province of China",Country
-tjk,Tajikistan,Country
-tza,"Tanzania, United Republic of",Country
-tha,Thailand,Country
-tls,Timor-Leste,Country
+tca,Turks and Caicos Islands,Country
+tcd,Chad,Country
 tgo,Togo,Country
+tha,Thailand,Country
+tjk,Tajikistan,Country
 tkl,Tokelau,Country
+tkm,Turkmenistan,Country
+tls,Timor-Leste,Country
 ton,Tonga,Country
 tto,Trinidad and Tobago,Country
 tun,Tunisia,Country
 tur,Turkey,Country
-tkm,Turkmenistan,Country
-tca,Turks and Caicos Islands,Country
 tuv,Tuvalu,Country
+twn,"Taiwan, Province of China",Country
+tza,"Tanzania, United Republic of",Country
 uga,Uganda,Country
 ukr,Ukraine,Country
-are,United Arab Emirates,Country
-gbr,United Kingdom,Country
 umi,United States Minor Outlying Islands,Country
-usa,United States of America,Country
 ury,Uruguay,Country
+usa,United States of America,Country
 uzb,Uzbekistan,Country
-vut,Vanuatu,Country
+vat,Holy See (Vatican City State),Country
+vct,Saint Vincent and the Grenadines,Country
 ven,"Venezuela, Bolivarian Republic of",Country
-vnm,Viet Nam,Country
 vgb,"Virgin Islands, British",Country
 vir,"Virgin Islands, U.S.",Country
+vnm,Viet Nam,Country
+vut,Vanuatu,Country
 wlf,Wallis and Futuna,Country
-esh,Western Sahara,Country
+wsm,Samoa,Country
 yem,Yemen,Country
+zaf,South Africa,Country
 zmb,Zambia,Country
 zwe,Zimbabwe,Country
 gaz,Gaza Strip,Disputed
 wbk,West Bank,Disputed
+sot,Southlands,Exercise Feature
 wrl,World,Global
 bri,Baker Island,Island
 bsi,Bassas da India,Island
@@ -268,29 +270,11 @@ hwi,Howland Island,Island
 imt,Ilemi Triangle,Island
 jvi,Jarvis Island,Island
 jni,Juan de Nova Island,Island
-kli,Kuril Islands,Island
 mts,Ma'tan al-sarra,Island
 tmi,Tromelin Island,Island
-anz,Australia and New Zealand,Region
+kli,Kuril Islands,Island
 cbn,Caribbean,Region
-cama,Central America,Region
-casi,Central Asia,Region
-eafr,Eastern Africa,Region
-easi,Eastern Asia,Region
-eeur,Eastern Europe,Region
-mel,Melanesia,Region
-mic,Micronesia,Region
-mafr,Middle Africa,Region
-afri,Northern Africa,Region
-neur,Northern Europe,Region
-poln,Polynesia,Region
-seasi,South-Eastern Asia,Region
-safr,Southern Africa,Region
-sasi,Southern Asia,Region
-seur,Southern Europe,Region
-wafr,Western Africa,Region
-wasi,Western Asia,Region
-weur,Western Europe,Region
+eaf,East Africa,Region
 cas,Caspian Sea,Sea
 asc,Aksai Chin,Unknown
 ahp,Arunachal Pradesh,Unknown
@@ -305,4 +289,3 @@ pma,Palmyra Atoll,Unknown
 pli,Paracel Islands,Unknown
 scr,Scarborough Reef,Unknown
 ski,Senkaku Islands,Unknown
-aoi,Area of Interest,Area

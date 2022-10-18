@@ -1,48 +1,61 @@
 Value,Description
 aster,Advanced Spaceborne Thermal Emission and Reflection Radiometer
-agricltr,Agriculture Cluster
 alertnet,Alertnet
 amb,Ambulance Service
-cccm,CCCM Cluster
+cccm,Camp Coordination and Camp Management Cluster
 ciesin,Center for International Earth Science Information Network
+cnigs,Centre National de l'Information Géo-Spatiale
 bart,Collins Bartholomew
-ceger,Early Recovery Cluster
+conred,Coordinadora Nacional Para La ReducciÃ³n De Desastres
+copernicus,Copernicus
+dominode,Dominode
 etc,Emergency Communications Cluster
-escltr,Emergency Shelter Cluster
 esri,ESRI
 europatech,Europa Technology
 eudasm,European Digital Archive of Soil Maps
 fact,Field Assessment and Coordination Team
+fieldmaps,Fieldmaps
 fire,Fire Service
 feat,Flash Environmental Assessment Tool
 fao,Food and Agriculture Organization
+fscluster,Food Security Cluster
 gadm,GADM Global Administrative Areas
+geoboundaries,geoBoundaries
 geoeye,GeoEye
 gist,Geographic Information Support Team
 gaul,Global Administrative Unit Layers
-grump,GlobalÂ Rural-Urban Mapping Project
-ge,Google Earth
+gcer,Global Cluster for Early Recovery
+gmted,Global Multi-resolution Terrain Elevation Data
+gnc,Global Nutrition Cluster
+gpc,Global Protection Cluster
+grump,Global Rural-Urban Mapping Project
+gsc,Global Shelter Cluster
+gwc,Global WASH Cluster
+googleearth,Google Earth
 govl,Government - local
 govn,Government - national
 govd,Government - regional
 gps,GPS
 gpw,Gridded Population of the World
 hit,Hazard Identification Tool
-healcltr,Health Cluster
+healthcluster,Health Cluster
 hydrosheds,HydroSHEDS
 insarag,INSARAG
 igad,Intergovernmental Authority on Develpoment
+iom,International Organization for Migration
 iscgm,ISCGM Global Mapping
 jdf,J. de Ferranti DEMs (north of SRTM)
+jtwc,Joint Typhoon Warning Center
 landsat,Landsat Geocover
 landscan,LandScan
-logs,Logs Cluster
+logcluster,Logistics Cluster
 mapaction,MapAction
 msf,Medicins Sans Frontieres
 merlin,Merlin
 mag,Mines Advisory Group
 mix,Mix of data sources
 modis,Moderate Resolution Imaging Spectroradiometer
+nasa,National Aeronautics and Space Administration
 civdef,National civil defence source
 nga,National Geospatial Intelligence Agency
 met,National meteorological service
@@ -52,12 +65,16 @@ navteq,Navteq
 ngagn,NGA Geonames gazetteer
 ngashore,NGA shorelines
 npa,Norwegion Peoples Aid
-nutcltr,Nutrition Cluster
+rolac,OCHA Latin America and the Caribbean (ROLAC)
+romena,OCHA Middle East and North Africa (ROMENA)
+rocca,"OCHA Regional Office for the Caucasus, Central Asia and Ukraine "
+unfpa,OCHA West and Central Africa
 osm,OpenStreetMap
+ourairports,Our Airports
 oxfam,Oxfam
 police,Police Service
-protcltr,Protection Cluster
 salb,Second Administrative Level Boundaries
+spcsdd,"Secretariat of the Pacific Community, Statistics for Development Division"
 srtm,Shuttle Radar Topography Mission
 statoid,Statoid: data on admin units
 tsf,Telecom Sans Frontier
@@ -71,11 +88,12 @@ unifad,UN International Fund for Agricultural Development
 uniom,UN International Organization for Migration
 unma,UN MineAction
 unrw,UN ReliefWeb
-unwfp,UN World Food Programme
-unwho,UN World Health Organisation
 ungiwg,UNGIWG Core Geodatabase
 utpcl,Uni of Texas Perry-Castaneda Library Map Collection
-unicef,UNICEF
+unicef,United Nations Children's Fund
+unhcr,United Nations High Commissioner for Refugees
+unfpa,United Nations Population Fund 
+unrwa,United Nations Relief and Works Agency for Palestine Refugees
 unknown,Unknown
 unocha,UNOCHA
 ocha3w,UN-OCHA 3W Database
@@ -86,14 +104,9 @@ usams,US Army Map Service
 usnhc,US National Hurricane Center
 usgs,USGS
 vmap,Vmap
-washcltr,WASH Cluster
 wiki,Wikipedia
 wdpa,Word Database of Protected Areas
 wfp,World Food Program
-cnigs,Centre National de l'Information GÃ©o-Spatiale
-unhcr, United Nations High Commissioner for Refugees
-unrwa, United Nations Relief and Works Agency for Palestine Refugees
-mapaction, MapAction
-worldportindex,World Ports Index
-ourairports,Our Airports
-openstreetmap,OpenStreetMap
+who,World Health Organisation
+worldpop,World Pop
+wpi,World Port Index
